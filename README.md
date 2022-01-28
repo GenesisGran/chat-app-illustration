@@ -28,7 +28,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/chat-app-illustration-using-html-css-flexbox-and-media-query-LbNeVqZ99]
 - Live Site URL: [https://genesisgran.github.io/chat-app-illustration/]
 
 ## Built with
